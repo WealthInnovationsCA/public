@@ -34,11 +34,16 @@
                 href="https://demo.WealthInnovations.CA/"
                 />
   </url><url>
+    <loc>https://demo.WealthInnovations.CA/legal/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://demo.WealthInnovations.CA/services/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url><url>
     <loc>https://demo.WealthInnovations.CA/solutions/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://demo.WealthInnovations.CA/legal/attributions/</loc>
   </url><url>
     <loc>https://demo.WealthInnovations.CA/authors/</loc>
     <xhtml:link
@@ -71,6 +76,8 @@
   </url><url>
     <loc>https://demo.WealthInnovations.CA/contact/</loc>
   </url><url>
+    <loc>https://demo.WealthInnovations.CA/legal/copyright/</loc>
+  </url><url>
     <loc>https://demo.WealthInnovations.CA/legal/disclaimer/</loc>
   </url><url>
     <loc>https://demo.WealthInnovations.CA/authors/filmon/</loc>
@@ -85,7 +92,9 @@
                 href="https://demo.WealthInnovations.CA/authors/filmon/"
                 />
   </url><url>
-    <loc>https://demo.WealthInnovations.CA/legal/</loc>
+    <loc>https://demo.WealthInnovations.CA/legal/impress/</loc>
+  </url><url>
+    <loc>https://demo.WealthInnovations.CA/categories/legal/</loc>
   </url><url>
     <loc>https://demo.WealthInnovations.CA/meet-with-me/</loc>
   </url><url>
