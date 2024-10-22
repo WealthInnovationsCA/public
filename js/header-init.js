@@ -1,3 +1,4 @@
+"use strict";
 (() => {
   // ns-params:@params
   var params_default = { prefix: "hb-", sticky: true };
