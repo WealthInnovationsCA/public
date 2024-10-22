@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devs on Wealth Innovations Inc.</title>
+    <link>http://localhost:1313/dev/</link>
+    <description>Recent content in Devs on Wealth Innovations Inc.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021-2024 Wealth Innovations Inc. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 21 Oct 2024 23:22:35 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colours</title>
+      <link>http://localhost:1313/dev/colours/</link>
+      <pubDate>Mon, 21 Oct 2024 23:22:35 -0500</pubDate>
+      <guid>http://localhost:1313/dev/colours/</guid>
+      <description>&lt;div&#xA;  class=&#34;container text-center&#34;&#xA;  &gt;&#xA;&lt;div class=&#34;row row-cols-1 row-cols-md-2 row-cols-lg-3 mb-3&#34;&gt;&#xA;  &lt;div class=&#34;col border py-3&#34;&gt;&#xA;  Primary&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;col border py-3&#34;&gt;&#xA;  Complimentary&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;col border py-3&#34;&gt;&#xA;  Secondary&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;col border py-3&#34;&gt;&#xA;  Ancillary&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;col border py-3&#34;&gt;&#xA;  SlitCompPlus&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;col border py-3&#34;&gt;&#xA;  SplitCompMinus&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
